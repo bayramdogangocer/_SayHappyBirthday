@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">facebookApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="APP_ID">416583295077235</string>
+    <string name="welcome">welcome</string>
+    <string name="textview">textview</string>
+    <string name="login_facebook">Login Facebook</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="post_to_wall">Post to Wall</string>
+    <string name="get_profile_data">Get Profile Data</string>
+    <string name="show_access_tokens">Show Access Tokens</string>
+    <string name="show_happy_birthday">Say Happy Birthday</string>
+</resources>
